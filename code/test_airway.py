@@ -6,7 +6,7 @@ import data
 import data2
 from data import TwoStreamBatchSampler ,relabel_dataset
 import shutil
-from trainval_classifier import train_casenet ,val_casenet,val_casenet_1
+from trainval_classifier_airway import train_casenet ,val_casenet,val_casenet_1
 from utils import Logger ,save_itk,weights_init,exp_warmup
 from networks.ResNet34 import Resnet34
 
