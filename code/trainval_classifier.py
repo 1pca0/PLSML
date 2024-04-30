@@ -24,9 +24,6 @@ from utils2 import ramps,losses
 # import skimage.measure as measure
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 preprocessed_data_dir = os.path.join(BASE_DIR, 'preprocessed_data')
-# 22 0.1，0.5，
-#222,0.5,0.2
-#30 0.5 85
 th_bin = 0.5
 
 CE_LOSS =nn.CrossEntropyLoss(reduction='none')
