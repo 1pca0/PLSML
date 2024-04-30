@@ -9,7 +9,10 @@ test_airway.py
 
 test_cerebral.py
 # Model
-We provide training models on theCerebral Artery dataset:https://pan.baidu.com/s/1zEMk3u6d_cI2WGb2g8L-Vw 
+We provide training models on the Cerebral Artery dataset:https://pan.baidu.com/s/1zEMk3u6d_cI2WGb2g8L-Vw 
+
+Extraction code：abcd
+We provide training models on the Pulmonary Airway Segmentation dataset:https://pan.baidu.com/s/19ZRR9ojHPKW13oUm04CoOg 
 
 Extraction code：abcd
 # Acknowledgement
