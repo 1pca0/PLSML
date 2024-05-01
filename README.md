@@ -13,8 +13,5 @@ We provide training models on the Cerebral Artery dataset:https://pan.baidu.com/
 
 Extraction code：abcd
 
-We provide training models on the Pulmonary Airway Segmentation dataset:https://pan.baidu.com/s/19ZRR9ojHPKW13oUm04CoOg 
-
-Extraction code：abcd
 # Acknowledgement
 We build the project based on MCF. Thanks for their contribution.
