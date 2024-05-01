@@ -14,4 +14,4 @@ We provide training models on the Cerebral Artery dataset:https://pan.baidu.com/
 Extraction code：abcd
 
 # Acknowledgement
-We build the project based on MCF. Thanks for their contribution.
+We build the project based on http://www.pami.sjtu.edu.cn/News/56. Thanks for their contribution.
